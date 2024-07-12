@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="MissingDefaultResource">
+    <item
+        android:drawable="@drawable/admin"
+        android:height="130dp"
+        android:width="130dp">
+    </item>
+</layer-list>
